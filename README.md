@@ -216,3 +216,7 @@ Every processed image is recorded in the `images` table inside `<output>/index.d
 | `clip_conf` | `REAL` | Confidence score (`0.0` – `1.0`) for OpenCLIP macro classification |
 | `rating` | `TEXT` | Content rating: `general`, `sensitive`, `questionable`, or `explicit` |
 | `top_tags` | `TEXT` | JSON dictionary of top-20 general Danbooru tags and their probabilities |
+
+## License
+
+[MIT License](./LICENSE). Free to use, modify, and distribute.
